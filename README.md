@@ -6,6 +6,7 @@ A beginner-friendly mini project using Python, OpenCV, and MediaPipe.
 ---
 
 📌 Overview
+
 This is my first mini project after starting to explore Image and Video Analytics.
 It’s a real-time sketch application that responds to your hand gestures using a webcam feed.
 
