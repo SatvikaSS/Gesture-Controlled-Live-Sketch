@@ -10,16 +10,25 @@ It’s a real-time sketch application that responds to your hand gestures using 
 🎥 The webcam feed is processed into a pencil sketch live using OpenCV
 
 ✋ Features
+
 -Live hand tracking with MediaPipe
+
 -Real-time pencil sketch effect
+
 -Gesture-based interaction (no buttons or keyboard needed)
+
 -Saves sketch images with auto-generated filenames
+
 -Visual indicators for finger count and gesture distance
 
 🛠️ Tech Stack
+
 -Python
+
 -OpenCV
+
 -MediaPipe
+
 -NumPy
 
 📽️ Demo
