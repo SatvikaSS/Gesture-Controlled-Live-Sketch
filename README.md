@@ -1,6 +1,7 @@
 ---
 
 🎨 Gesture-Controlled Live Sketch
+
 A beginner-friendly mini project using Python, OpenCV, and MediaPipe.
 
 ---
